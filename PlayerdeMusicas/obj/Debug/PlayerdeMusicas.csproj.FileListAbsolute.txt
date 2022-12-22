@@ -1,0 +1,14 @@
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\bin\Debug\PlayerdeMusicas.exe.config
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\bin\Debug\PlayerdeMusicas.exe
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\bin\Debug\PlayerdeMusicas.pdb
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\bin\Debug\Interop.WMPLib.dll
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.csproj.ResolveComReference.cache
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.Form1.resources
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.Properties.Resources.resources
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.csproj.GenerateResource.Cache
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.exe
+C:\Users\Aluno\OneDrive\IFSP - Câmpus Barretos\2º Informática\LPI\PlayerdeMusicas\PlayerdeMusicas\obj\Debug\PlayerdeMusicas.pdb
